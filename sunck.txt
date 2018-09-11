@@ -6,3 +6,8 @@ ef
 fr
 fr
 v2.0
+hy
+hy
+bg
+ku
+v3.0
