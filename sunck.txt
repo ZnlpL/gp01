@@ -1,2 +1,6 @@
 sunck is a good man
+<<<<<<< HEAD
 sunck is a nice man
+=======
+hanmeimei is a good women
+>>>>>>> hanmeimei
